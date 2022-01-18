@@ -1,4 +1,4 @@
-### Hi there 👋
+- 🌱 I’m currently advance myself on MATLAB, C and Python.
 [![outsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=outsu&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
