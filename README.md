@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 One Man Army - Data Analyst, Software Developer, Electrical & Electronics Engineer, Graphic Designer
 ----------------------------------------------------------------------------------------------------
 
-I'm interesting with programming since learn what code means. Love to create my own stuff and software, doing freelancer programmer for now.
+I'm interesting with programming since learned what code means. Love to create my own stuff and software, doing freelancer programming for now.
 
 *   🌍  I'm based in Turkey, Muğla.
 *   🖥️  See my portfolio at [GitHub Page of me](http://outsu.github.io)
-*   🧠  I'm learning C
+<!--*   🧠  I'm learning C-->
 *   🤝  I'm open to collaborating on interesting projects, enterprise that make sense.
-*   ⚡  Good to cook btw.
+*   ⚡  Good to cook.
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
