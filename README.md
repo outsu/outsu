@@ -37,4 +37,8 @@ email: out@engineer.com
 ### Badges <b> 
   My GitHub Stats</b><br/>
   <a href="http://www.github.com/outsu"><img src="https://github-readme-stats.vercel.app/api?username=outsu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="outsu's GitHub stats" /></a>
-  <a href="https://github.com/outsu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outsu&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/outsu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outsu&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br/>
+┏━━━━━━┑<br/>
+│╭╮╷╷┌─╴<br/>
+│╰╯╰╯╰╯│<br/>
+┗━━━━━━┙<br/>
