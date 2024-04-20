@@ -87,7 +87,7 @@ I've been interested in programming ever since I learned what code is. I love to
 
 <br clear="both">
 
-<img width="100%" src="/output/snake.svg" alt="Snake animation" />
+<!--<img width="100%" src="/output/snake.svg" alt="Snake animation" />-->
 
 ###
 ┏━━━━━━┑<br/>
