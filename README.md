@@ -17,15 +17,18 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   -->
   <a href="https://twitch.tv/ayran" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ayran&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=ayran&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch"  />
   </a>
   <a href="https://www.linkedin.com/in/%C3%B6%C4%9F%C3%BCt-su-karag%C3%BCn-635211176/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=ayrania&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=ayrania&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord"  />
   <a href="mailto:out@engineer.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=out@engineer.com&logo=gmail&label=&color=857885&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=out@engineer.com&logo=gmail&label=&color=857885&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
   </a>
+  <a href="https://ogut.su" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ogut.su&label=&color=264B44&logoColor=white&labelColor=&style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZD0iTTQgMTVMMjAgMTUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4gPHBhdGggZD0iTTQgOUwyMCA5IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+IDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4gPHBhdGggZD0iTTEyLjAwMDQgMjAuODE4MkwxMS4yODYyIDIxLjUxODFDMTEuNDc0MiAyMS43MTAxIDExLjczMTcgMjEuODE4MiAxMi4wMDA0IDIxLjgxODJDMTIuMjY5MSAyMS44MTgyIDEyLjUyNjUgMjEuNzEwMSAxMi43MTQ2IDIxLjUxODFMMTIuMDAwNCAyMC44MTgyWk0xMi4wMDA0IDMuMTgxODhMMTIuNzE0NiAyLjQ4MTk4QzEyLjUyNjUgMi4yOTAwNSAxMi4yNjkxIDIuMTgxODggMTIuMDAwNCAyLjE4MTg4QzExLjczMTcgMi4xODE4OCAxMS40NzQyIDIuMjkwMDUgMTEuMjg2MSAyLjQ4MTk4TDEyLjAwMDQgMy4xODE4OFpNMTQuNjAwNCAxMi4wMDAxQzE0LjYwMDQgMTUuMTYxMSAxMy4zMzczIDE4LjAyNTEgMTEuMjg2MiAyMC4xMTgzTDEyLjcxNDYgMjEuNTE4MUMxNS4xMTczIDE5LjA2NjIgMTYuNjAwNCAxNS43MDUzIDE2LjYwMDQgMTIuMDAwMUgxNC42MDA0Wk0xMS4yODYxIDMuODgxNzhDMTMuMzM3MyA1Ljk3NTAxIDE0LjYwMDQgOC44MzkwMyAxNC42MDA0IDEyLjAwMDFIMTYuNjAwNEMxNi42MDA0IDguMjk0NzggMTUuMTE3MyA0LjkzMzg5IDEyLjcxNDYgMi40ODE5OEwxMS4yODYxIDMuODgxNzhaTTkuNDAwMzkgMTIuMDAwMUM5LjQwMDM5IDguODM5MDMgMTAuNjYzNCA1Ljk3NTAxIDEyLjcxNDYgMy44ODE3OEwxMS4yODYxIDIuNDgxOThDOC44ODM0NyA0LjkzMzg5IDcuNDAwMzkgOC4yOTQ3OCA3LjQwMDM5IDEyLjAwMDFIOS40MDAzOVpNMTIuNzE0NiAyMC4xMTgzQzEwLjY2MzQgMTguMDI1MSA5LjQwMDM5IDE1LjE2MTEgOS40MDAzOSAxMi4wMDAxSDcuNDAwMzlDNy40MDAzOSAxNS43MDUzIDguODgzNDggMTkuMDY2MiAxMS4yODYyIDIxLjUxODFMMTIuNzE0NiAyMC4xMTgzWiIgZmlsbD0iI2ZmZmZmZiIvPiA8L2c+Cg08L3N2Zz4="  height="35" alt="website"/>
+    <a/>
 </div>
 
 ###
