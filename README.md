@@ -80,7 +80,7 @@
 ### Electrical & Electronics Engineer, Data Analyst, Software Dev., Graphic Designer, UI Designer & Dev.
 ----------------------------------------------------------------------------------------------------
 
-I've been interested in programming ever since I learned what code is. I love to create my own stuff and software, doing freelance programming for now.
+Love to create my own stuff.
 
 *   🌍  I'm based in Turkey, Muğla.
 *   🖥️  See my portfolio at my [GitHub Page](http://outsu.github.io)
